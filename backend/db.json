@@ -1,0 +1,52 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Vai no cabelereiro! No esteticista!",
+      "autoria": "Jorge, Seu",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Vo conta tudo pro meu pai, tia ;(",
+      "autoria": "Felpin",
+      "modelo": "modelo3",
+      "id": 7
+    },
+    {
+      "conteudo": "Os remédios normais não amenizam a pressão!",
+      "autoria": "O Rappa",
+      "modelo": "modelo3",
+      "id": 9
+    },
+    {
+      "conteudo": "Do or do not, there is no try.",
+      "autoria": "Yoda, Master",
+      "modelo": "modelo3",
+      "id": 11
+    },
+    {
+      "conteudo": "May the force be with you!",
+      "autoria": "Obi-Wan",
+      "modelo": "modelo2",
+      "id": 12
+    },
+    {
+      "conteudo": "Baby baby do biruleibe leibe?",
+      "autoria": "Diogo",
+      "modelo": "modelo1",
+      "id": 13
+    },
+    {
+      "conteudo": "Birulei now!",
+      "autoria": "Anthony Kiedis",
+      "modelo": "modelo3",
+      "id": 14
+    },
+    {
+      "conteudo": "I am your father!",
+      "autoria": "Darth Vader",
+      "modelo": "modelo1",
+      "id": 15
+    }
+  ]
+}

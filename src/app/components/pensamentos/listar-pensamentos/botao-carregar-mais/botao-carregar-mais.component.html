@@ -1,0 +1,6 @@
+<div class="center">
+    <button class="botao carregar-mais" *ngIf="haMaisMemorias; else semMaisMemorias">Carregar mais</button>
+</div>
+<ng-template #semMaisMemorias>
+    <p class="mensagem-center ff-inter">Não há mais memórias para exibir</p>
+</ng-template>

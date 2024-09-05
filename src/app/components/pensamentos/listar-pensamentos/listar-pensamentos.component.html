@@ -1,0 +1,11 @@
+<section class="container">
+    <header class="header d-flex">
+        <h2 class="ff-inter">Minhas memórias</h2>
+        <button routerLink="/criarPensamento" class="botao">Adicionar memória</button>
+    </header>
+    <div class="mural">
+        <div *ngFor="let pensamento of listaMemorias">
+            <app-pensamento [pensamento]="pensamento"></app-pensamento>
+        </div>
+    </div>
+</section>
